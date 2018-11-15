@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomGridControl.cs](./CS/GridView_MaxRowHeight/CustomGridControl.cs) (VB: [CustomGridControl.vb](./VB/GridView_MaxRowHeight/CustomGridControl.vb))
+* [Form1.cs](./CS/GridView_MaxRowHeight/Form1.cs) (VB: [Form1.vb](./VB/GridView_MaxRowHeight/Form1.vb))
+* [Program.cs](./CS/GridView_MaxRowHeight/Program.cs) (VB: [Program.vb](./VB/GridView_MaxRowHeight/Program.vb))
+<!-- default file list end -->
 # How to create a GridView descendant that will allow specifying max height of data rows
 
 
